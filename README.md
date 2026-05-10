@@ -130,7 +130,7 @@ Example output:
 ### Start vLLM Server
 
 ```bash
-python start_server.py
+python main.py
 ```
 
 ### Run Generation Pipeline
